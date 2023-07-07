@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.11)
+project(structureProject)
+add_subdirectory(MyApp)
+add_subdirectory(MyLibrary)
+add_subdirectory(MyTest)
